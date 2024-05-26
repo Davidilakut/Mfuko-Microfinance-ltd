@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mfuko Microfinance Ltd</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: white;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: green;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .contact-info {
+            background-color: green;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mfuko Microfinance Ltd</h1>
+        <p>Dedicated to financial inclusion and financial literacy for the unbanked population.</p>
+    </header>
+    <div class="container">
+        <section>
+            <h2>All Loan Products by Microfinance Institution in Uganda</h2>
+            <p>Mfuko Microfinance Limited offers a range of financial products and services tailored to empower youth and women entrepreneurs, aimed at poverty reduction and economic growth. Our loan products include:</p>
+            <ul>
+                <li>Personal Loans</li>
+                <li>Business Loans</li>
+                <li>Agricultural Loans</li>
+                <li>Education Loans</li>
+                <li>Emergency Loans</li>
+                <li>Group Loans</li>
+            </ul>
+        </section>
+    </div>
+    <div class="contact-info">
+        <h2>Contact Information</h2>
+        <p>Phone: +256782028722</p>
+        <p>Phone: +256771627601</p>
+    </div>
+</body>
+</html>
